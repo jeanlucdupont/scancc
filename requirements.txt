@@ -1,0 +1,11 @@
+docx==0.2.4
+et-xmlfile==1.1.0
+lxml==4.9.2
+numpy==1.24.1
+openpyxl==3.0.10
+pdfrw==0.4
+Pillow==9.4.0
+pygame==2.1.2
+python-docx==0.8.11
+pywin32==305
+Win32Security==2.1.0
