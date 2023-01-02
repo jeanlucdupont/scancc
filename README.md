@@ -1,7 +1,8 @@
 # scancc is a Windows file system credit card scanner.
 Most of this code was written by ChatGPT.
 
-2023 01 02
+-- 2023 01 02 --
+
 This is in its very early stage. 
 Do NOT try in production.
 
