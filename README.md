@@ -6,7 +6,6 @@ This is in its very early stage.
 Do NOT try in production.
 
 Edit C_SCANFOLDER to select the folder to scan
-Edit C_QUARANTINEFOLDER
 
 
 #pip install -r requirements.txt
